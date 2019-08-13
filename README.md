@@ -24,8 +24,8 @@ will not go through.
 
 1. node bamazon_customer.js in terminal/bash.  
 
-<img src="https://user-images.githubusercontent.com/22119689/62914815-d32fdb00-bd46-11e9-84e0-fbc3f4cc433f.png”>  
-<img src="https://user-images.githubusercontent.com/22119689/62914817-d4f99e80-bd46-11e9-8a32-1c659606d1f5.png”>
+<img src="https://user-images.githubusercontent.com/22119689/62914815-d32fdb00-bd46-11e9-84e0-fbc3f4cc433f.png">
+<img src="https://user-images.githubusercontent.com/22119689/62914817-d4f99e80-bd46-11e9-8a32-1c659606d1f5.png">
 
   
 ## Author
