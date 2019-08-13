@@ -11,18 +11,18 @@ will not go through.
 
 ## Technologies used:
 •	Node.js  
-•	Javascript 
+•	Javascript   
 •	MySQL 
 
 
 ## NPM packages:
-•	cli-table - The utility allows you to render unicode-aided tables on the command line from your node.js scripts.
-•	mysql - This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.
-•	inquirer - A collection of common interactive command line user interfaces.
+•	cli-table - The utility allows you to render unicode-aided tables on the command line from your node.js scripts.  
+•	mysql - This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.  
+•	inquirer - A collection of common interactive command line user interfaces.  
 
 ## How to Run Bamazon inventory.  
 
-1. node bamazon_customer.js  in terminal/bash.  
+1. node bamazon_customer.js in terminal/bash.  
 
 <img src="https://user-images.githubusercontent.com/22119689/62914815-d32fdb00-bd46-11e9-84e0-fbc3f4cc433f.png”>  
 <img src="https://user-images.githubusercontent.com/22119689/62914817-d4f99e80-bd46-11e9-8a32-1c659606d1f5.png”>
