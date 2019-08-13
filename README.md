@@ -20,7 +20,7 @@ will not go through.
 •	mysql - This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.  
 •	inquirer - A collection of common interactive command line user interfaces.  
 
-## How to Run Bamazon inventory.  
+## How to Run Bamazon inventory:  
 
 1. node bamazon_customer.js in terminal/bash.  
 
